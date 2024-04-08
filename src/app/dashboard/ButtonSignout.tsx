@@ -7,9 +7,10 @@ function ButtonSignout() {
       onClick={() => {
         signOut();
       }}
-      className="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-full"
+      className="text-white font-bold py-2 px-4 rounded-full"
+      style={{backgroundColor: '#ff347d'}}
     >
-      Cerrar sesion
+      Log out
     </button>
   );
 }
