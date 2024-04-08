@@ -6,14 +6,18 @@ First, clone repository:
 ```bash
 git clone https://github.com/DaliGabriel/NextAuthExample.git
 ```
+Second, clone repository:
+```bash
+cd NextAuthExample/
+```
 
-Second, Install dependency:
+Third, Install dependency:
 
 ```bash
 npm install
 ```
 
-Third, run the development server:
+Fourth, run the development server:
 
 ```bash
 npm run dev
